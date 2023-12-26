@@ -405,7 +405,7 @@ Citizen.CreateThread(function()
             event = 'rsg-cinema:client:menu',
             args = {},
         })
-	exports['rsg-core']:createPrompt('annesburg_cinr', vector3(-348.57, 701.97, 117.68), 0x760A9C6F, 'Cinema Menu', {
+	exports['rsg-core']:createPrompt('valentine_cinr', vector3(-348.57, 701.97, 117.68), 0x760A9C6F, 'Cinema Menu', {
             type = 'client',
             event = 'rsg-cinema:client:menu',
             args = {},

@@ -7,13 +7,13 @@ I offer no real suport to this, due to a convert
 
 ==============================================================================
 
-- Installation :
+Installation :
 
 1 - add "ensure rsg-cinema" to server.cfg
 
 2 - add rsg-cinema folder to a resources folder
 
-- Usage :
+Usage :
 
 1. Go to a Theatre or Cinema (blips on map) Press (G) to open menu.
 2. '/startshow menu' to open menu
@@ -40,7 +40,7 @@ add this into rsg-townhall config
 
     { job = 'cinema', title = 'Projectionist', description = 'Help in cinema and theater' },
 
-- Dependancies
+Dependancies
   rsg-core
   rsg-menu
   ox_lib
